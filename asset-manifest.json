@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Simple-Todos-ReactJS/static/css/main.2f932ee0.chunk.css",
+    "main.js": "/Simple-Todos-ReactJS/static/js/main.a738994c.chunk.js",
+    "main.js.map": "/Simple-Todos-ReactJS/static/js/main.a738994c.chunk.js.map",
+    "runtime-main.js": "/Simple-Todos-ReactJS/static/js/runtime-main.987094a0.js",
+    "runtime-main.js.map": "/Simple-Todos-ReactJS/static/js/runtime-main.987094a0.js.map",
+    "static/js/2.121cf247.chunk.js": "/Simple-Todos-ReactJS/static/js/2.121cf247.chunk.js",
+    "static/js/2.121cf247.chunk.js.map": "/Simple-Todos-ReactJS/static/js/2.121cf247.chunk.js.map",
+    "index.html": "/Simple-Todos-ReactJS/index.html",
+    "static/css/main.2f932ee0.chunk.css.map": "/Simple-Todos-ReactJS/static/css/main.2f932ee0.chunk.css.map",
+    "static/js/2.121cf247.chunk.js.LICENSE.txt": "/Simple-Todos-ReactJS/static/js/2.121cf247.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.987094a0.js",
+    "static/js/2.121cf247.chunk.js",
+    "static/css/main.2f932ee0.chunk.css",
+    "static/js/main.a738994c.chunk.js"
+  ]
+}
